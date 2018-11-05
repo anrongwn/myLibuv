@@ -1,0 +1,39 @@
+2018-08-22 16:26:24.796 [9628] LOG_ALARM -----------------  anCRS log thread started!   ------------------------
+2018-08-22 16:26:54.831 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:26:54.831 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:26:54.831 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:27:03.691 [12752] LOG_DEBUG CanIPCServer::on_new_connection new client=00DAFA28
+2018-08-22 16:27:03.691 [12752] LOG_DEBUG CanIPCServer::on_read(), nread=66
+2018-08-22 16:27:03.692 [12752] LOG_DEBUG CanIPCServer::on_read()--received:(hService=1, ReqID=1, Type=WFPOpen)
+2018-08-22 16:27:10.494 [3740] LOG_DEBUG CanXfs::cmd_handler(hService=1, ReqID=1, Type=WFPOpen)
+2018-08-22 16:27:10.495 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:27:10.495 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:27:10.495 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:27:10.495 [12752] LOG_DEBUG CanIPCServer::on_notify--uv_write(len=42, base=00DA23A0)
+2018-08-22 16:27:24.833 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:27:24.833 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:27:24.833 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:27:54.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:27:54.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:27:54.832 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:28:24.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:28:24.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:28:24.832 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:28:54.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:28:54.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:28:54.832 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:29:24.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:29:24.832 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:29:24.832 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:29:54.831 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:29:54.831 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:29:54.831 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:30:00.921 [12752] LOG_DEBUG CanIPCServer::on_read(), nread=26
+2018-08-22 16:30:00.922 [12752] LOG_DEBUG CanIPCServer::on_read()--received:(hService=1, ReqID=5, Type=WFPClose )
+2018-08-22 16:30:57.202 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:30:57.202 [3740] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:31:11.746 [3740] LOG_DEBUG CanXfs::cmd_handler(hService=1, ReqID=5, Type=WFPClose )
+2018-08-22 16:31:11.747 [12752] LOG_DEBUG CanIPCServer::on_read(), nread=-4095
+2018-08-22 16:32:15.522 [12752] LOG_ERROR CanIPCServer::on_read(), nread=-4095CanIPCServer::on_read() failed, nread=-4095
+2018-08-22 16:32:15.522 [12752] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:32:15.522 [12752] LOG_DEBUG CanIPCServer::erase_client_vector client=00DAFA28, des=00DAFA28

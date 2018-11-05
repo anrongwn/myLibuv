@@ -1,0 +1,28 @@
+2018-08-22 16:43:30.240 [15164] LOG_ALARM -----------------  anCRS log thread started!   ------------------------
+2018-08-22 16:43:53.269 [4268] LOG_DEBUG CanIPCServer::on_new_connection new client=00C8D080
+2018-08-22 16:43:53.269 [4268] LOG_DEBUG CanIPCServer::on_read(), nread=66
+2018-08-22 16:43:53.270 [4268] LOG_DEBUG CanIPCServer::on_read()--received:(hService=2, ReqID=6, Type=WFPOpen)
+2018-08-22 16:43:57.006 [15260] LOG_DEBUG CanXfs::cmd_handler(hService=2, ReqID=6, Type=WFPOpen)
+2018-08-22 16:43:57.007 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:43:57.007 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:43:57.007 [4268] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:43:57.007 [4268] LOG_DEBUG CanIPCServer::on_notify--uv_write(len=42, base=00C83378)
+2018-08-22 16:44:00.253 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:44:00.253 [4268] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:44:00.253 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:44:30.253 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:44:30.253 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:44:30.253 [4268] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:44:31.008 [4268] LOG_DEBUG CanIPCServer::on_read(), nread=26
+2018-08-22 16:44:31.008 [4268] LOG_DEBUG CanIPCServer::on_read()--received:(hService=2, ReqID=10, Type=WFPClose )
+2018-08-22 16:44:39.534 [15260] LOG_DEBUG CanXfs::cmd_handler(hService=2, ReqID=10, Type=WFPClose )
+2018-08-22 16:44:42.939 [4268] LOG_DEBUG CanIPCServer::on_read(), nread=-4095
+2018-08-22 16:44:42.939 [4268] LOG_ERROR CanIPCServer::on_read(), nread=-4095CanIPCServer::on_read() failed, nread=-4095
+2018-08-22 16:44:42.939 [4268] LOG_DEBUG CanIPCServer::erase_client_vector client=00C8D080, des=00C8D080
+2018-08-22 16:44:42.939 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:44:42.940 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:44:42.940 [4268] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:45:00.254 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:45:00.254 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:45:30.254 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:45:30.254 [15260] LOG_DEBUG CanEventHandler::send_completed_notice--completed.

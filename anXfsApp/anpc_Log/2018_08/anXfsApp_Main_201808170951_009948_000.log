@@ -1,0 +1,2 @@
+2018-08-17 09:51:00.974 [7024] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2018-08-17 09:51:00.974 [7024] LOG_ALARM logger id=0 key=Main name=Main path=./anpc_Log/ level=0 display=true log4z.cpp:1933

@@ -1,0 +1,6 @@
+2018-08-17 14:59:51.132 [9400] LOG_ALARM ------------------  anpc log thread started!   ------------------------
+2018-08-17 14:59:51.147 [11824] LOG_DEBUG CanIPC::run() =0
+2018-08-17 14:59:51.147 [11824] LOG_DEBUG CanIPC::sendcmd(hService=11,len=66)
+2018-08-17 14:59:51.147 [5908] LOG_DEBUG CanIPC::write(len=66)
+2018-08-17 14:59:54.502 [11824] LOG_DEBUG CanIPC::sendcmd(hService=11,len=26)
+2018-08-17 14:59:54.502 [5908] LOG_DEBUG CanIPC::write(len=26)

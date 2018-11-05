@@ -1,0 +1,31 @@
+2018-08-22 16:47:57.698 [9692] LOG_ALARM -----------------  anCRS log thread started!   ------------------------
+2018-08-22 16:48:27.707 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:48:27.707 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:48:27.707 [8984] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:48:57.707 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:48:57.707 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:48:57.707 [8984] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:49:27.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:49:27.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:49:27.706 [8984] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:49:29.423 [8984] LOG_DEBUG CanIPCServer::on_new_connection new client=00D70298
+2018-08-22 16:49:29.423 [8984] LOG_DEBUG CanIPCServer::on_read(), nread=66
+2018-08-22 16:49:29.424 [8984] LOG_DEBUG CanIPCServer::on_read()--received:(hService=1, ReqID=1, Type=WFPOpen)
+2018-08-22 16:49:34.072 [8044] LOG_DEBUG CanXfs::cmd_handler(hService=1, ReqID=1, Type=WFPOpen)
+2018-08-22 16:49:34.073 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:49:34.073 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:49:34.073 [8984] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:49:34.074 [8984] LOG_DEBUG CanIPCServer::on_notify--uv_write(len=42, base=00D62EA8)
+2018-08-22 16:49:40.356 [8984] LOG_DEBUG CanIPCServer::on_read(), nread=26
+2018-08-22 16:49:40.356 [8984] LOG_DEBUG CanIPCServer::on_read()--received:(hService=1, ReqID=5, Type=WFPClose )
+2018-08-22 16:49:49.519 [8984] LOG_DEBUG CanIPCServer::on_read(), nread=-4095
+2018-08-22 16:49:49.519 [8984] LOG_ERROR CanIPCServer::on_read(), nread=-4095CanIPCServer::on_read() failed, nread=-4095
+2018-08-22 16:49:49.520 [8984] LOG_DEBUG CanIPCServer::erase_client_vector client=00D70298, des=00D70298
+2018-08-22 16:49:49.521 [8044] LOG_DEBUG CanXfs::cmd_handler(hService=1, ReqID=5, Type=WFPClose )
+2018-08-22 16:49:49.525 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:49:49.525 [8984] LOG_DEBUG CanIPCServer::on_notify--
+2018-08-22 16:49:49.527 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:49:57.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:49:57.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.
+2018-08-22 16:50:27.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--
+2018-08-22 16:50:27.706 [8044] LOG_DEBUG CanEventHandler::send_completed_notice--completed.

@@ -1,0 +1,11 @@
+LIBRARY   anpc
+
+EXPORTS
+   anpc_malloc
+   anpc_free
+   anpc_create_ipc
+   anpc_send_cmd
+   anpc_close_ipc
+   anpc_stop
+
+   

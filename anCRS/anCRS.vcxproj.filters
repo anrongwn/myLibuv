@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="anCRS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Executer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="anCRS_utility.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CanIPCServer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="build_cmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CanXfs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_sem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="log4z\log4z.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_Commander.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfs_status.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfs_cu_info.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfs_dev.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_wfpopen_impl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfs_result.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfs_systemevent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_xfscim.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="anAllotter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_wfpregister_impl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="an_wfpexecute_impl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="item_pass_check.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="anCRS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Executer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CanIPCServer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CanXfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="log4z\log4z.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_xfs_status.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_xfs_cu_info.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_xfs_dev.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_wfpopen_impl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_xfs_result.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_wfpregister_impl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="an_wfpexecute_impl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="item_pass_check.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="anCRS.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="anCRS.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

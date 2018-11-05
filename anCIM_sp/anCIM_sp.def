@@ -1,0 +1,16 @@
+LIBRARY   anCIM_sp
+
+EXPORTS
+   WFPCancelAsyncRequest
+   WFPClose
+   WFPDeregister
+   WFPExecute
+   WFPGetInfo
+   WFPLock
+   WFPOpen
+   WFPRegister
+   WFPSetTraceLevel
+   WFPUnloadService
+   WFPUnlock
+   
+   

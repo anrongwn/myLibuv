@@ -1,0 +1,9 @@
+Debug/
+.vs/
+doc/
+ipch/
+Release/
+libv_backup/
+*.db
+
+

@@ -1,0 +1,2 @@
+2018-08-28 15:20:57.531 [6960] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2018-08-28 15:20:57.533 [6960] LOG_ALARM logger id=0 key=Main name=Main path=./anXfsApp_Log/ level=0 display=true log4z.cpp:1933
